@@ -1,0 +1,6 @@
+**/.idea/*
+.idea/*
+.jar
+!.idea/runConfigurations
+*.iml
+out
