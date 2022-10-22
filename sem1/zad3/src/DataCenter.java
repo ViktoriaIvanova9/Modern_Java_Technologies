@@ -1,5 +1,4 @@
 public class DataCenter {
-
     public static int getCommunicatingServersCount(int[][] map) {
 
         int[] columnIndexesSaver = new int[map[0].length];

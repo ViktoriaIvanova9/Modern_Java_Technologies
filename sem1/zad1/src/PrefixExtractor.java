@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class PrefixExtractor {
-
     public static String getLongestCommonPrefix(String[] words) {
 
         String longestCommonPrefix = "";

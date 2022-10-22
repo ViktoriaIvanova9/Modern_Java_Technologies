@@ -1,5 +1,4 @@
 public class TourGuide {
-
     public static int getBestSightseeingPairScore(int[] places) {
         int bestSightseeing = 0, currentSightseeing = 0;
 
@@ -14,4 +13,3 @@ public class TourGuide {
         }
         return bestSightseeing;
     }
-}
